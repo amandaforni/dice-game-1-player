@@ -1,0 +1,20 @@
+* {
+    background-color: darkgrey;
+    text-align: center;
+    color:whitesmoke;
+}
+
+button{
+    background-color: #143642;
+    color: #C2B5BF;
+    margin: 1%;
+    border-radius: 16%;
+    width: 4%;
+    height: auto;
+}
+
+button:hover{
+    opacity: 50%;
+}
+
+
